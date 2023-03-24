@@ -2,13 +2,8 @@
     --background: #000;
     --white: #fff;
     --text-gradient-bg: rgb(255,255,255);
-    --text-gradient-1: linear-gradient(
-        90deg,
-        rgb(138, 2, 250) 0%,                
-        rgb(227, 240, 182) 35%,
-        rgb(158, 0, 0) 100%
-        );
-    --btn-bg: #9e0303;   
-    --bg-blob: rgba(245, 8, 8, 0.486);  
+    --text-gradient-1: linear-gradient(90deg, rgba(61,48,175,1) 0%, rgba(198,246,255,1) 35%, rgba(128,0,255,1) 100%);
+    --btn-bg: rgb(61,48,175);  
+    --bg-blob: rgb(61,48,175);
     --card-border: #282525;
 } 

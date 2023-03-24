@@ -38,22 +38,22 @@ const TopFold = () => {
         </div>
         <div className='tf-right-diamond'>
           <div className='tf-r-diamond-item absolute-center'>
-            <img className='tf-r-diamond-img' alt='diamond-banner' src="https://i.seadn.io/gcs/files/129b97582f0071212ee7cf440644fc28.gif?auto=format&w=256"/>
+            <img className='tf-r-diamond-img' alt='diamond-banner' src="https://i.seadn.io/s/primary-drops/0x560e8da96ee847cdf59bd90c309a2a51958f99a5/24195256:hero:partner_logo_url:5f0cef4b-6204-49fa-b753-fafd7cb3f7af.gif?auto=format&w=1920"/>
 
           </div>
 
           <div className='tf-r-diamond-item absolute-center'>
-            <img className='tf-r-diamond-img' alt='diamond-banner' src="https://i.seadn.io/gcs/files/c3a312c53514642e8041c65e10b40a52.gif?auto=format&w=256"/>
+            <img className='tf-r-diamond-img' alt='diamond-banner' src="https://openseauserdata.com/files/390e1abc8bbddeae18015452f33ae280.gif"/>
 
           </div>
 
           <div className='tf-r-diamond-item absolute-center'>
-            <img className='tf-r-diamond-img' alt='diamond-banner' src="https://i.seadn.io/gcs/files/389b0bb1803898cb2517b1f4d4d75635.gif?auto=format&w=256"/>
+            <img className='tf-r-diamond-img' alt='diamond-banner' src="https://media.tenor.com/zCuNNsdqLZQAAAAC/m6-mutant.gif"/>
 
           </div>
 
           <div className='tf-r-diamond-item absolute-center'>
-            <img className='tf-r-diamond-img' alt='diamond-banner' src="https://i.seadn.io/gcs/files/8604de2d9aaec98dd389e3af1b1a14b6.gif?auto=format&w=256"/>
+            <img className='tf-r-diamond-img' alt='diamond-banner' src="https://media.tenor.com/uHVmd0uBuU0AAAAC/bored-ape-yacht-club-nft.gif"/>
 
           </div>
 

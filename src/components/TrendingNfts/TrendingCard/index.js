@@ -15,6 +15,7 @@ const TrendingCard = (props) => {
               <div>
                 <div className='tc-ui-username'>{nft.user_name}</div>
                 <div className='tc-ui-userhandle'>{nft.userhandle}</div>
+                <div className='tc-ui-price'>{nft.price}</div>
               </div>
               
             </div>
