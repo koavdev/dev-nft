@@ -1,9 +1,12 @@
 import React from 'react'
 import "./brandsIntegration.css";
 
+
 const BrandsIntegration = () => {
   return (
-    <div>BrandsIntegration</div>
+    <div className='brands-integration absolute-center'>
+      <img src={require('../../assets/brandLogos.png')} alt='brand-logos' className='bi-logos'/>
+    </div>
   )
 }
 

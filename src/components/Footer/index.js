@@ -3,7 +3,9 @@ import "./footer.css";
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <div className='footer absolute-center'>
+      <span className='heading-gradient'>Made with 🔥 by koav dev</span>
+      </div>
   )
 }
 

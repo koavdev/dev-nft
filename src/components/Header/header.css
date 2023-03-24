@@ -3,5 +3,6 @@
     font-weight: 700;
     text-transform: uppercase;
     padding: 12px 0px 0px; /* top right-left bottom */
+    margin: 50px 0px -200px;
     letter-spacing: 12px;
 }

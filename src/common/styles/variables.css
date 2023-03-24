@@ -1,13 +1,14 @@
 :root{
-    --background: #000000;
+    --background: #000;
     --white: #fff;
     --text-gradient-bg: rgb(255,255,255);
     --text-gradient-1: linear-gradient(
         90deg,
-        rgba(255,255,255,1) 0%,
-        rgba(255,0,0,1) 35%,
-        rgba(34,0,255,1) 100%
+        rgb(138, 2, 250) 0%,                
+        rgb(227, 240, 182) 35%,
+        rgb(158, 0, 0) 100%
         );
-    --btn-bg: #2f80ed;   
-    --bg-blob: rgba(245, 8, 174, 0.486);  
+    --btn-bg: #9e0303;   
+    --bg-blob: rgba(245, 8, 8, 0.486);  
+    --card-border: #282525;
 } 
